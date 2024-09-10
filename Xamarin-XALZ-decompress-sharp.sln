@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin-XALZ-decompress-sharp", "Xamarin-XALZ-decompress-sharp\Xamarin-XALZ-decompress-sharp.csproj", "{DAF52941-A730-4C71-A95C-AC21397A33D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAF52941-A730-4C71-A95C-AC21397A33D6}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{DAF52941-A730-4C71-A95C-AC21397A33D6}.Debug|anycpu.Build.0 = Debug|anycpu
+		{DAF52941-A730-4C71-A95C-AC21397A33D6}.Release|anycpu.ActiveCfg = Release|anycpu
+		{DAF52941-A730-4C71-A95C-AC21397A33D6}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
