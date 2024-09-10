@@ -1,0 +1,43 @@
+bin/
+build/
+obj/
+.mono/
+
+# Rider IDE files
+.idea/
+*.sln.iml
+
+# NuGet packages
+packages/
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Logs, database, and debug
+*.log
+*.tlog
+*.ide.log
+
+# Visual Studio / vscode files
+.vs/
+.vscode/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.userprefs
+
+# MonoDevelop files
+*.pidb
+*.booproj
+*.userprefs
+
+# Temporary and backup files
+*~
+*.bak
+*.swp
+*.tmp
+*.temp
